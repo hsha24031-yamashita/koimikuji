@@ -1,17 +1,17 @@
 body{
     text-align: center;
-    background-color: rgb(241, 189, 214);
+    background-color: rgb(236, 214, 225);
     font-family:"Arial" ,sans-serif;
 }
 
 h1{
-    color: rgb(199, 48, 118);
+    color: rgb(255, 73, 179);
 }
 
 button{
     padding: 10px;
     font-size: 18px;
-    background-color: rgb(192, 51, 138);
+    background-color: rgb(255, 0, 157);
     color: rgb(255, 255, 255);
     border: none;
     border-radius: 5px;
@@ -19,7 +19,7 @@ button{
 }
 
 button:hover{
-    background-color: rgba(97, 32, 83, 0.521);
+    background-color: rgba(247, 247, 247, 0.521);
 }
 
 .result{
